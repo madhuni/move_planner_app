@@ -1,0 +1,641 @@
+{
+    "response": {
+        "meta": {
+            "hits": 1115,
+            "time": 45,
+            "offset": 0
+        },
+        "docs": [{
+            "web_url": "https://query.nytimes.com/gst/abstract.html?res=9F05E1D7173FEF34BC4F52DFB766838C679FDE",
+            "snippet": "For a term of year extending back through Mr. LINCOLN'S and BUCHANAN'S administrations, the manner in which the White House has been furnished, has been a matter of great chagrin to Americans who knew anything regarding it. The appropriations made...",
+            "lead_paragraph": "For a term of year extending back through Mr. LINCOLN'S and BUCHANAN'S administrations, the manner in which the White House has been furnished, has been a matter of great chagrin to Americans who knew anything regarding it. The appropriations made by Congress for repairs and new purchases were always insufficient, and were generally more than half consumed in the payment of old claims rendered under and unsettled from previous contracts.",
+            "abstract": "The Appearance of the",
+            "print_page": "2",
+            "blog": [],
+            "source": "The New York Times",
+            "multimedia": [],
+            "headline": {
+                "main": "WASIHNGTON.; The White House in a New Garb--Great improvement in its Appearance--The \"Red.\" \"Green\" and \"Blue\" Parlors--The Famous East Room in its New Dress."
+            },
+            "keywords": [{
+                "name": "glocations",
+                "value": "WHITE HOUSE"
+			}, {
+                "name": "subject",
+                "value": "POLITICAL"
+			}],
+            "pub_date": "1867-01-17T00:03:58Z",
+            "document_type": "article",
+            "news_desk": null,
+            "section_name": null,
+            "subsection_name": null,
+            "byline": {
+                "person": [{
+                    "firstname": "From",
+                    "middlename": "Our",
+                    "lastname": "Own",
+                    "rank": 1,
+                    "role": "reported",
+                    "organization": ""
+				}],
+                "original": "From Our Own Correspondent"
+            },
+            "type_of_material": "Article",
+            "_id": "4fbfeda445c1498b0d07e29b",
+            "word_count": 1439,
+            "slideshow_credits": null
+		}, {
+            "web_url": "https://query.nytimes.com/gst/fullpage.html?res=9D00E5D8123BF930A35757C0A96F9C8B63",
+            "snippet": "When President Obama briefed Congressional leaders last week at the White House on his plans to send more troops to Afghanistan, Senator Harry Reid offered some advice: Whatever you do, he told the president, do not call it a ''surge.''     Not to...",
+            "lead_paragraph": "When President Obama briefed Congressional leaders last week at the White House on his plans to send more troops to Afghanistan, Senator Harry Reid offered some advice: Whatever you do, he told the president, do not call it a ''surge.'' Not to worry. Mr. Obama did not and would not. The exchange, confirmed by people briefed on the discussion, underscored the sensitivity about language in the new administration. Mr. Obama and his team are busily scrubbing former President George W. Bush's national security lexicon, if not necessarily all of his policies.",
+            "abstract": null,
+            "print_page": "20",
+            "blog": [],
+            "source": "The New York Times",
+            "multimedia": [],
+            "headline": {
+                "main": "The Words Change, if Not the Policies",
+                "kicker": "WHITE HOUSE MEMO"
+            },
+            "keywords": [],
+            "pub_date": "2009-04-03T00:00:00Z",
+            "document_type": "article",
+            "news_desk": "National Desk",
+            "section_name": "U.S.",
+            "subsection_name": null,
+            "byline": {
+                "person": [{
+                    "organization": "",
+                    "role": "reported",
+                    "rank": 1,
+                    "firstname": "Peter",
+                    "lastname": "BAKER"
+				}],
+                "original": "By PETER BAKER"
+            },
+            "type_of_material": "News",
+            "_id": "4fd26efa8eb7c8105d829757",
+            "word_count": 903,
+            "slideshow_credits": null
+		}, {
+            "web_url": "https://www.nytimes.com/2006/03/27/politics/27letter.html",
+            "snippet": "At least one part of the White House is heeding calls for new blood. The first lady has replaced her entire high command after five years....",
+            "lead_paragraph": "Well, at least one part of the White House is heeding calls for new blood. Not only is the pastry chef quitting this week, but a close look at the first lady's office also shows that she has replaced her entire high command after five years in charge of the East Wing. Laura Bush is now on her second chief of staff, Anita McBride. She is on her second projects and policy director, Sonya Medina. She is on her third press secretary, Susan Whitson. She is on her second social secretary, Lea Berman.",
+            "abstract": "White House Letter reports that Laura Bush has replaced her entire high command in East Wing; new figures include chief of staff Anita McBride, policy director Sonya Medina, press secretary Susan Whitson and social secretary Lea Berman; Whitson cites natural turnover, although chef Walter Scheib III was dismissed; pastry chef Thaddeus R DuBois is leaving to return to Borgata casino chain, at much higher salary; photo with Mrs Bush (M)",
+            "print_page": "15",
+            "blog": [],
+            "source": "The New York Times",
+            "multimedia": [{
+                "url": "images/2006/03/27/national/27letter.751.jpg",
+                "subtype": "thumbnail",
+                "legacy": {
+                    "hasthumbnail": "Y",
+                    "thumbnailheight": 75,
+                    "thumbnail": "images/2006/03/27/national/27letter.751.jpg"
+                },
+                "type": "image",
+                "height": 75
+			}],
+            "headline": {
+                "main": "All Quiet in the West Wing, but More Change in the East",
+                "kicker": "White House Letter"
+            },
+            "keywords": [{
+                "name": "persons",
+                "value": "DUBOIS, THADDEUS R"
+			}, {
+                "name": "persons",
+                "value": "BERMAN, LEA"
+			}, {
+                "name": "persons",
+                "value": "BUSH, LAURA"
+			}, {
+                "name": "persons",
+                "value": "SCHEIB, WALTER III"
+			}, {
+                "name": "persons",
+                "value": "MEDINA, SONYA"
+			}, {
+                "name": "persons",
+                "value": "WHITSON, SUSAN"
+			}, {
+                "name": "persons",
+                "value": "MCBRIDE, ANITA"
+			}, {
+                "name": "subject",
+                "value": "SUSPENSIONS, DISMISSALS AND RESIGNATIONS"
+			}, {
+                "name": "subject",
+                "value": "APPOINTMENTS AND EXECUTIVE CHANGES"
+			}, {
+                "name": "subject",
+                "value": "WAGES AND SALARIES"
+			}, {
+                "name": "subject",
+                "value": "COOKING AND COOKBOOKS"
+			}, {
+                "name": "subject",
+                "value": "WHITE HOUSE (WASHINGTON, DC)"
+			}],
+            "pub_date": "2006-03-27T00:00:00Z",
+            "document_type": "article",
+            "news_desk": "National Desk",
+            "section_name": "U.S.",
+            "subsection_name": null,
+            "byline": {
+                "person": [{
+                    "organization": "",
+                    "role": "reported",
+                    "rank": 1,
+                    "firstname": "Elisabeth",
+                    "lastname": "BUMILLER"
+				}],
+                "original": "By ELISABETH BUMILLER"
+            },
+            "type_of_material": "News",
+            "_id": "4fd278308eb7c8105d839f66",
+            "word_count": 968,
+            "slideshow_credits": null
+		}, {
+            "web_url": "https://www.nytimes.com/2005/04/18/politics/18letter.html",
+            "snippet": "President Bush, a former owner of the Texas Rangers and a self-described junkball pitcher at Yale, owes much in his life - if not the presidency itself - to baseball....",
+            "lead_paragraph": "President Bush's ceremonial first pitch last week at the home opener of the fledgling Washington Nationals baseball team was high and a little inside. In short, it was no match for the strike Mr. Bush threw to start Game 3 of the World Series in Yankee Stadium when the World Trade Center lay in ruins in the fall of 2001. But the president's 60-foot throw from the top of the mound on a glorious spring evening in the capital was still a reminder that Mr. Bush, a former owner of the Texas Rangers and a self-described mediocre pitcher for a short time at Yale, owes much in his life -- if not the presidency itself -- to baseball.",
+            "abstract": "Pres Bush's ceremonial first pitch at home opener of fledgling Washington Nationals baseball team serves as reminder of import of baseball to his life and his career before he entered politics; photo (White House Letter) (M)",
+            "print_page": "14",
+            "blog": [],
+            "source": "The New York Times",
+            "multimedia": [{
+                "url": "images/2005/04/18/national/18lett75.jpg",
+                "subtype": "thumbnail",
+                "legacy": {
+                    "hasthumbnail": "Y",
+                    "thumbnailheight": 75,
+                    "thumbnail": "images/2005/04/18/national/18lett75.jpg"
+                },
+                "type": "image",
+                "height": 75
+			}],
+            "headline": {
+                "main": "Measuring the Bush Family History, and the President's Political Career, in Innings",
+                "kicker": "White House Letter"
+            },
+            "keywords": [{
+                "name": "persons",
+                "value": "BUSH, GEORGE W"
+			}, {
+                "name": "organizations",
+                "value": "WASHINGTON NATIONALS"
+			}, {
+                "name": "subject",
+                "value": "BASEBALL"
+			}, {
+                "name": "subject",
+                "value": "BIOGRAPHICAL INFORMATION"
+			}],
+            "pub_date": "2005-04-18T00:00:00Z",
+            "document_type": "article",
+            "news_desk": "National Desk",
+            "section_name": "U.S.",
+            "subsection_name": null,
+            "byline": {
+                "person": [{
+                    "organization": "",
+                    "role": "reported",
+                    "rank": 1,
+                    "firstname": "Elisabeth",
+                    "lastname": "BUMILLER"
+				}],
+                "original": "By ELISABETH BUMILLER"
+            },
+            "type_of_material": "News",
+            "_id": "4fd24abd8eb7c8105d7e8dc1",
+            "word_count": 894,
+            "slideshow_credits": null
+		}, {
+            "web_url": "https://www.nytimes.com/2013/02/22/us/politics/white-house-memo-for-obama-an-air-of-confidence-not-crisis-in-the-latest-fiscal-battle.html",
+            "snippet": "President Obama is just seven days away from the first significant test of his second term as deep spending cuts loom....",
+            "lead_paragraph": "President Obama is just seven days away from the first significant test of his second term as deep spending cuts loom.",
+            "abstract": "White House Memo; Pres Obama faces first significant test of his second term as deep spending cuts loom, yet inside White House a clear sense of confidence stands in contrast to air of crisis that surrounded previous fiscal showdowns with Republicans; confrontation holds peril for both Obama and GOP, but for now, he believes he is acting from greater position of strength.",
+            "print_page": "12",
+            "blog": [],
+            "source": "The New York Times",
+            "multimedia": [{
+                "width": 190,
+                "url": "images/2013/02/22/us/sub-OBAMA/sub-OBAMA-thumbWide.jpg",
+                "height": 126,
+                "subtype": "wide",
+                "legacy": {
+                    "wide": "images/2013/02/22/us/sub-OBAMA/sub-OBAMA-thumbWide.jpg",
+                    "wideheight": "126",
+                    "widewidth": "190"
+                },
+                "type": "image"
+			}, {
+                "width": 600,
+                "url": "images/2013/02/22/us/sub-OBAMA/sub-OBAMA-articleLarge.jpg",
+                "height": 427,
+                "subtype": "xlarge",
+                "legacy": {
+                    "xlargewidth": "600",
+                    "xlarge": "images/2013/02/22/us/sub-OBAMA/sub-OBAMA-articleLarge.jpg",
+                    "xlargeheight": "427"
+                },
+                "type": "image"
+			}, {
+                "width": 75,
+                "url": "images/2013/02/22/us/sub-OBAMA/sub-OBAMA-thumbStandard.jpg",
+                "height": 75,
+                "subtype": "thumbnail",
+                "legacy": {
+                    "thumbnailheight": "75",
+                    "thumbnail": "images/2013/02/22/us/sub-OBAMA/sub-OBAMA-thumbStandard.jpg",
+                    "thumbnailwidth": "75"
+                },
+                "type": "image"
+			}],
+            "headline": {
+                "seo": "White House Memo: For Obama, an Air of Confidence, Not Crisis, in the Latest Fiscal Battle",
+                "main": "For Obama and Team, Calm, Not Crisis, in Latest Fiscal Battle",
+                "kicker": "White House Memo",
+                "print_headline": "For Obama and Team, Calm, Not Crisis, in Latest Fiscal Battle",
+                "content_kicker": "White House Memo"
+            },
+            "keywords": [{
+                "rank": "1",
+                "is_major": "Y",
+                "value": "Obama, Barack",
+                "name": "persons"
+			}, {
+                "rank": "2",
+                "is_major": "N",
+                "value": "McDonough, Denis R",
+                "name": "persons"
+			}, {
+                "rank": "3",
+                "is_major": "Y",
+                "value": "Federal Budget (US)",
+                "name": "subject"
+			}, {
+                "rank": "4",
+                "is_major": "N",
+                "value": "United States Politics and Government",
+                "name": "subject"
+			}, {
+                "rank": "5",
+                "is_major": "N",
+                "value": "Taxation",
+                "name": "subject"
+			}, {
+                "rank": "6",
+                "is_major": "N",
+                "value": "Law and Legislation",
+                "name": "subject"
+			}, {
+                "rank": "7",
+                "is_major": "N",
+                "value": "Polls and Public Opinion",
+                "name": "subject"
+			}, {
+                "rank": "8",
+                "is_major": "N",
+                "value": "Republican Party",
+                "name": "organizations"
+			}, {
+                "rank": "9",
+                "is_major": "N",
+                "value": "Democratic Party",
+                "name": "organizations"
+			}],
+            "pub_date": "2013-02-22T00:00:00Z",
+            "document_type": "article",
+            "news_desk": "National",
+            "section_name": "U.S.",
+            "subsection_name": "Politics",
+            "byline": {
+                "contributor": "Megan Thee-Brenan contributed reporting.",
+                "person": [{
+                    "organization": "",
+                    "role": "reported",
+                    "firstname": "Jeff",
+                    "rank": 1,
+                    "lastname": "ZELENY"
+				}, {
+                    "organization": "",
+                    "role": "reported",
+                    "firstname": "Jonathan",
+                    "rank": 2,
+                    "lastname": "WEISMAN"
+				}],
+                "original": "By JEFF ZELENY and JONATHAN WEISMAN"
+            },
+            "type_of_material": "News",
+            "_id": "5126e0f8cf28d009de001502",
+            "word_count": "964",
+            "slideshow_credits": null
+		}, {
+            "web_url": "https://www.nytimes.com/1988/09/25/realestate/in-the-region-connecticut-and-westchester-coming-swedish-prefabs-for-connecticut.html",
+            "snippet": "LEAD: SKANSKA U.S.A., a Swedish builder based in Greenwich since 1982 that has yet to build anything in Connecticut, carries on its business with such quiet efficiency that few have heard of it....",
+            "lead_paragraph": "LEAD: SKANSKA U.S.A., a Swedish builder based in Greenwich since 1982 that has yet to build anything in Connecticut, carries on its business with such quiet efficiency that few have heard of it.",
+            "abstract": null,
+            "print_page": "25",
+            "blog": [],
+            "source": "The New York Times",
+            "multimedia": [],
+            "headline": {
+                "main": "IN THE REGION: Connecticut and Westchester; Coming: Swedish Prefabs for Connecticut"
+            },
+            "keywords": [{
+                "name": "persons",
+                "value": "LEJDSTOM, CARL-OLOF"
+			}, {
+                "name": "glocations",
+                "value": "CONNECTICUT"
+			}, {
+                "name": "glocations",
+                "value": "WHITE PLAINS (NY)"
+			}, {
+                "name": "organizations",
+                "value": "SKANSKA USA"
+			}, {
+                "name": "subject",
+                "value": "HOUSING"
+			}, {
+                "name": "subject",
+                "value": "PREFABRICATED BUILDINGS"
+			}],
+            "pub_date": "1988-09-25T00:00:00Z",
+            "document_type": "article",
+            "news_desk": "Real Estate Desk",
+            "section_name": "Real Estate",
+            "subsection_name": null,
+            "byline": {
+                "person": [{
+                    "organization": "",
+                    "role": "reported",
+                    "firstname": "Eleanor",
+                    "rank": 1,
+                    "lastname": "CHARLES"
+				}],
+                "original": "By ELEANOR CHARLES"
+            },
+            "type_of_material": "News",
+            "_id": "4fd17f8a8eb7c8105d67adea",
+            "word_count": 1034,
+            "slideshow_credits": null
+		}, {
+            "web_url": "https://query.nytimes.com/gst/abstract.html?res=9B01E6DE123BE333A25750C1A9659C946791D6CF",
+            "snippet": "THE line between capital and labor was plain enough in the heyday of the workingmen's parties nearly a century and a half ago. When Jackson was running for the Presidency, factory owners warned their workers that owls would build nests in the mill...",
+            "lead_paragraph": "THE line between capital and labor was plain enough in the heyday of the workingmen's parties nearly a century and a half ago. When Jackson was running for the Presidency, factory owners warned their workers that owls would build nests in the mills if he were elected. But the workers marched to the polls singing:",
+            "abstract": "Kern, A: Made in USA",
+            "print_page": "349",
+            "blog": [],
+            "source": "The New York Times",
+            "multimedia": [],
+            "headline": {
+                "main": "New Guard for the Workers"
+            },
+            "keywords": [{
+                "name": "creative_works",
+                "value": "MADE IN USA"
+			}, {
+                "name": "persons",
+                "value": "KERN, A"
+			}, {
+                "name": "subject",
+                "value": "BOOK REVIEWS"
+			}],
+            "pub_date": "1966-03-13T00:00:00Z",
+            "document_type": "article",
+            "news_desk": null,
+            "section_name": null,
+            "subsection_name": null,
+            "byline": {
+                "person": [{
+                    "firstname": "A.",
+                    "middlename": "H.",
+                    "lastname": "RASKIN",
+                    "rank": 1,
+                    "role": "reported",
+                    "organization": ""
+				}],
+                "original": "By A.H. RASKIN"
+            },
+            "type_of_material": "Article",
+            "_id": "4fc4303345c1498b0d978ca5",
+            "word_count": 619,
+            "slideshow_credits": null
+		}, {
+            "web_url": "https://www.nytimes.com/2013/05/14/opinion/white-house-under-fire-it-condemns-irs-audits.html",
+            "snippet": "The I.R.S. should have scrutinized every group seeking a tax exemption for “social welfare” activity — Democrat or Republican, conservative or liberal....",
+            "lead_paragraph": "The I.R.S. should have scrutinized every group seeking a tax exemption for “social welfare” activity — Democrat or Republican, conservative or liberal.",
+            "abstract": "Editorial argues that Internal Revenue Service was absolutely correct to investigate abuse of tax code by political organizations masquerading as 'social welfare' groups, but erred by focusing only on conservative organizations; decries that IRS scandal will distract from more substantial issues like budget, gun control and immigration reform.",
+            "print_page": "24",
+            "blog": [],
+            "source": "The New York Times",
+            "multimedia": [],
+            "headline": {
+                "seo": "White House Under Fire: It Condemns I.R.S. Audits",
+                "main": "The I.R.S. Audits Are Condemned",
+                "kicker": "Editorial | White House Under Fire",
+                "print_headline": "It Condemns I.R.S. Audits of Political Groups",
+                "content_kicker": "Editorial | White House Under Fire"
+            },
+            "keywords": [{
+                "rank": "1",
+                "is_major": "Y",
+                "value": "Internal Revenue Service",
+                "name": "organizations"
+			}, {
+                "rank": "2",
+                "is_major": "N",
+                "value": "Tax Credits, Deductions and Exemptions",
+                "name": "subject"
+			}, {
+                "rank": "3",
+                "is_major": "N",
+                "value": "Tea Party Movement",
+                "name": "subject"
+			}, {
+                "rank": "4",
+                "is_major": "N",
+                "value": "United States Politics and Government",
+                "name": "subject"
+			}, {
+                "rank": "5",
+                "is_major": "N",
+                "value": "Lerner, Lois",
+                "name": "persons"
+			}, {
+                "rank": "6",
+                "is_major": "N",
+                "value": "Nonprofit Organizations",
+                "name": "subject"
+			}, {
+                "rank": "7",
+                "is_major": "Y",
+                "value": "Editorials",
+                "name": "subject"
+			}, {
+                "rank": "8",
+                "is_major": "N",
+                "value": "Internal Revenue Service Political Profiling",
+                "name": "subject"
+			}],
+            "pub_date": "2013-05-14T00:00:00Z",
+            "document_type": "article",
+            "news_desk": "Editorial",
+            "section_name": "Opinion",
+            "subsection_name": null,
+            "byline": {
+                "contributor": "",
+                "person": [],
+                "original": "By THE EDITORIAL BOARD",
+                "organization": "THE EDITORIAL BOARD"
+            },
+            "type_of_material": "Editorial",
+            "_id": "5191917940e9ec457e2a105c",
+            "word_count": "636",
+            "slideshow_credits": null
+		}, {
+            "web_url": "https://www.nytimes.com/2010/01/15/arts/design/15design.html",
+            "snippet": "With its use of the iPhone as a curating device, the new show at the Cooper-Hewitt is less an exhibition than an extra-large design seminar in your head....",
+            "lead_paragraph": "With its use of the iPhone as a curating device, the new show at the Cooper-Hewitt is less an exhibition than an extra-large design seminar in your head.",
+            "abstract": null,
+            "print_page": "27",
+            "blog": [],
+            "source": "The New York Times",
+            "multimedia": [{
+                "subtype": "thumbnail",
+                "url": "images/2010/01/15/arts/15design_CA0/thumbStandard.jpg",
+                "height": 75,
+                "width": 75,
+                "legacy": {
+                    "thumbnailheight": "75",
+                    "thumbnail": "images/2010/01/15/arts/15design_CA0/thumbStandard.jpg",
+                    "thumbnailwidth": "75"
+                },
+                "type": "image"
+			}],
+            "headline": {
+                "seo": "A Show’s Tour via iPod, at the Cooper-Hewitt",
+                "main": "A Guided Tour in the Palm of Your Hand",
+                "kicker": "Art Review | 'Design USA'",
+                "print_headline": "A Guided Tour In the Palm Of Your Hand",
+                "content_kicker": "Art Review | 'Design USA'"
+            },
+            "keywords": [{
+                "value": "Art",
+                "is_major": "N",
+                "rank": "1",
+                "name": "subject"
+			}, {
+                "value": "Cooper-Hewitt National Design Museum",
+                "is_major": "N",
+                "rank": "2",
+                "name": "organizations"
+			}, {
+                "value": "Apple Inc",
+                "is_major": "N",
+                "rank": "3",
+                "name": "organizations"
+			}, {
+                "value": "Rucci, Ralph",
+                "is_major": "N",
+                "rank": "4",
+                "name": "persons"
+			}, {
+                "value": "Glaser, Milton",
+                "is_major": "N",
+                "rank": "5",
+                "name": "persons"
+			}],
+            "pub_date": "2010-01-15T00:00:00Z",
+            "document_type": "article",
+            "news_desk": "Weekend",
+            "section_name": "Arts",
+            "subsection_name": "Art & Design",
+            "byline": {
+                "person": [{
+                    "organization": "",
+                    "role": "reported",
+                    "rank": 1,
+                    "firstname": "Roberta",
+                    "lastname": "SMITH"
+				}],
+                "original": "By ROBERTA SMITH"
+            },
+            "type_of_material": "Review",
+            "_id": "5424ca7438f0d8525e453dd8",
+            "word_count": "1150",
+            "slideshow_credits": null
+		}, {
+            "web_url": "https://www.nytimes.com/1996/07/12/arts/art-review-in-connecticut-the-old-meets-the-new.html",
+            "snippet": "IN a completely noncombative way, Connecticut's summer shows oscillate between what might be called the old guard and the new. At one extreme is an exhibition of 18th-century Massachusetts silversmiths in New Haven, and at the other, a show in Rid...",
+            "lead_paragraph": "IN a completely noncombative way, Connecticut's summer shows oscillate between what might be called the old guard and the new. At one extreme is an exhibition of 18th-century Massachusetts silversmiths in New Haven, and at the other, a show in Ridgefield of emerging black artists, one of four exhibitions that together wend their way through several generations of minority artists, black and Hispanic. Aldrich Museum",
+            "abstract": null,
+            "print_page": "25",
+            "blog": [],
+            "source": "The New York Times",
+            "multimedia": [],
+            "headline": {
+                "main": "In Connecticut, the Old Meets the New",
+                "kicker": "ART REVIEW"
+            },
+            "keywords": [{
+                "name": "persons",
+                "value": "BIGGS, JOHN"
+			}, {
+                "name": "persons",
+                "value": "FORGE, ANDREW"
+			}, {
+                "name": "persons",
+                "value": "NOLAND, CADY"
+			}, {
+                "name": "glocations",
+                "value": "CONNECTICUT, USA"
+			}, {
+                "name": "organizations",
+                "value": "YALE CENTER FOR BRITISH  ART"
+			}, {
+                "name": "organizations",
+                "value": "WADSWORTHATHENEUM"
+			}, {
+                "name": "organizations",
+                "value": "ALDRICH MUSEUM OF CONTEMPORARY ART"
+			}, {
+                "name": "organizations",
+                "value": "YALE UNIVERSITY ART GALLERY"
+			}, {
+                "name": "subject",
+                "value": "REVIEWS"
+			}, {
+                "name": "subject",
+                "value": "OLD STATE HOUSE (HARTFORD, CONN)"
+			}, {
+                "name": "subject",
+                "value": "ART"
+			}],
+            "pub_date": "1996-07-12T00:00:00Z",
+            "document_type": "article",
+            "news_desk": "Weekend Desk",
+            "section_name": "Arts",
+            "subsection_name": null,
+            "byline": {
+                "person": [{
+                    "organization": "",
+                    "role": "reported",
+                    "firstname": "Roberta",
+                    "rank": 1,
+                    "lastname": "SMITH"
+				}],
+                "original": "By ROBERTA SMITH"
+            },
+            "type_of_material": "Review",
+            "_id": "4fd1e6028eb7c8105d73202c",
+            "word_count": 1815,
+            "slideshow_credits": null
+		}]
+    },
+    "status": "OK",
+    "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}
